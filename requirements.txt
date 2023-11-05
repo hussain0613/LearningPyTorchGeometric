@@ -3,3 +3,6 @@ torch-geometric
 torch-cluster
 torch-sparse
 sentence-transformers
+captum
+numpy
+pandas
